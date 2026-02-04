@@ -8,7 +8,7 @@ def create_cnn_model(input_shape=(28, 28, 1), num_classes=10):
     """
     Creates a simple Convolutional Neural Network (CNN) model.
 
-    Parameters:
+    Parameters...
         input_shape (tuple): Shape of the input images (height, width, channels).
         num_classes (int): Number of output classes.
 
